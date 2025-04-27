@@ -27,6 +27,3 @@ The goal of this application is to serve as a reference for basic database inter
 - PostgreSQL JDBC Driver (e.g., `postgresql-42.x.x.jar`)
 
 ---
-
-## Project Structure
-
