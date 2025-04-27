@@ -1,0 +1,39 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Build directories
+/bin/
+/out/
+/target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# VS Code workspace files
+.vscode/
+
+# Mac OS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Database files (if any accidental dumps)
+*.db
+*.sql
+
+# JAR Files
+*.jar
+
+# Exclude JDBC Driver JAR only if you copy it locally
+postgresql-*.jar
+
+# Backup files
+*~
